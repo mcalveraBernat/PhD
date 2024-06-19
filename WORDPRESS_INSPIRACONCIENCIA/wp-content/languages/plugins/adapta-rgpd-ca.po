@@ -1,0 +1,197 @@
+# Translation of Plugins - Adapta RGPD - Development (trunk) in Catalan
+# This file is distributed under the same license as the Plugins - Adapta RGPD - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-01-08 05:35:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: ca\n"
+"Project-Id-Version: Plugins - Adapta RGPD - Development (trunk)\n"
+
+#: includes/class-ui.php:542
+msgid "Colegio Profesional"
+msgstr "Coŀlegi professional"
+
+#: includes/class-ui.php:1152 includes/class-ui.php:1218
+#: includes/class-ui.php:1285 includes/class-ui.php:1350
+msgid "Ver"
+msgstr "Mostra"
+
+#: includes/class-settings.php:357
+msgid "Aceptar"
+msgstr "Accepta"
+
+#: includes/class-settings.php:254
+msgid "Francia"
+msgstr "França"
+
+#: includes/class-settings.php:216
+msgid "Borde + Números"
+msgstr "Vora + Números"
+
+#: includes/class-settings.php:215
+msgid "Con borde"
+msgstr "Amb vora"
+
+#: includes/class-settings.php:214
+msgid "Simple"
+msgstr "Simple"
+
+#: includes/class-ui.php:1682
+msgid "Activar"
+msgstr "Activa"
+
+#: includes/class-ui.php:1453
+msgid "Activar en"
+msgstr "Activa a"
+
+#: includes/class-settings.php:282
+msgid "Venezuela"
+msgstr "Veneçuela"
+
+#: includes/class-settings.php:269
+msgid "Perú"
+msgstr "Perú"
+
+#: includes/class-settings.php:251
+msgid "España"
+msgstr "Espanya"
+
+#: includes/class-settings.php:246
+msgid "Ecuador"
+msgstr "Equador"
+
+#: includes/class-settings.php:241
+msgid "Chile"
+msgstr "Xile"
+
+#: includes/class-settings.php:240
+msgid "Colombia"
+msgstr "Colòmbia"
+
+#: includes/class-settings.php:231
+msgid "Argentina"
+msgstr "Argentina"
+
+#: includes/class-settings.php:222
+msgid "Clásico"
+msgstr "Clàssic"
+
+#: includes/class-ui.php:178
+msgid "cargando..."
+msgstr "S'està carregant..."
+
+#: includes/class-settings.php:225
+msgid "Moderno Oscuro"
+msgstr "Modern fosc"
+
+#: includes/class-settings.php:224
+msgid "Moderno Claro"
+msgstr "Modern clar"
+
+#: includes/class-settings.php:223
+msgid "Clásico en parte superior"
+msgstr "Clàssic a la part superior"
+
+#. Author URI of the plugin
+msgid "https://superadmin.es"
+msgstr "https://superadmin.es"
+
+#. Plugin URI of the plugin
+msgid "https://superadmin.es/adapta-rgpd"
+msgstr "https://superadmin.es/adapta-rgpd"
+
+#. Plugin Name of the plugin
+msgid "Adapta RGPD"
+msgstr "Adapta RGPD"
+
+#: includes/class-ui.php:2159
+msgid "La página ya existe."
+msgstr "La pàgina ja existeix."
+
+#: includes/class-ui.php:2156
+msgid "Los cambios se han guardado."
+msgstr "Els canvis s'han desat."
+
+#: includes/class-ui.php:2150
+msgid "Algo fue mal."
+msgstr "Alguna cosa ha anat malament."
+
+#: includes/class-ui.php:1129 includes/class-ui.php:2010
+#: includes/class-ui.php:2028
+msgid "Ayuda"
+msgstr "Ajuda"
+
+#: includes/class-ui.php:1478
+msgid "Formularios"
+msgstr "Formularis"
+
+#: includes/class-ui.php:1464
+msgid "Comentarios "
+msgstr "Comentaris"
+
+#: includes/class-ui.php:997
+msgid "Cesión de datos a terceros"
+msgstr "Cessió de dades a tercers"
+
+#: includes/class-ui.php:976
+msgid "Cláusulas"
+msgstr "Clàusules"
+
+#: includes/class-ui.php:970
+msgid "Más Ajustes"
+msgstr "Més ajustos"
+
+#: includes/class-ui.php:816
+msgid "Servicios de Terceros"
+msgstr "Serveis de tercers"
+
+#: includes/class-ui.php:666
+msgid "Correo electrónico"
+msgstr "Correu electrònic"
+
+#: includes/class-ui.php:620
+msgid "Domicilio"
+msgstr "Domicili"
+
+#: includes/class-integration.php:644 includes/class-ui.php:1276
+msgid "Política de Cookies"
+msgstr "Política de galetes"
+
+#: includes/class-integration.php:639 includes/class-ui.php:1210
+msgid "Política de Privacidad"
+msgstr "Política de privadesa"
+
+#: includes/class-integration.php:634 includes/class-ui.php:1144
+msgid "Aviso Legal"
+msgstr "Avís legal"
+
+#: includes/class-ui.php:1123
+msgid "Páginas Legales"
+msgstr "Pàgines legals"
+
+#: includes/class-ui.php:706
+msgid "Sobre el sitio Web"
+msgstr "Sobre el lloc web"
+
+#: includes/class-integration.php:520
+msgid "Para poder comentar debes aceptar la política de privacidad."
+msgstr "Per poder comentar heu d'acceptar la política de privadesa."
+
+#: includes/class-admin.php:422
+msgid "Settings"
+msgstr "Configuració"
+
+#: includes/class-admin.php:146 includes/class-admin.php:160
+#: includes/class-admin.php:175 includes/class-admin.php:206
+#: includes/class-admin.php:289 includes/class-admin.php:355
+#: includes/class-admin.php:384
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No teniu permisos suficients per a accedir a aquesta pàgina."
+
+#: includes/class-ui.php:518
+msgid "Identificador fiscal"
+msgstr "Identificador fiscal"
